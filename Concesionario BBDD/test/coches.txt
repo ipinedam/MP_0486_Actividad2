@@ -1,0 +1,5 @@
+ID: 1 Matricula: 2839LPD Marca: FORD Modelo: MUSTANG Color: ROJO
+ID: 2 Matricula: 0284DMY Marca: SEAT Modelo: LEÓN Color: BLANCO
+ID: 3 Matricula: 8273KHW Marca: RENAULT Modelo: CLIO Color: AZUL
+ID: 4 Matricula: 1293BPS Marca: CITROEN Modelo: C4 Color: NEGRO
+ID: 5 Matricula: 2251JHR Marca: LEXUS Modelo: NX 300H Color: BLANCO
